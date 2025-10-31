@@ -9,7 +9,7 @@ Atalho para abrir pasta  = Ctrl +K + O
 
 ch yt prof Renan :inite code 
 
-atalho para abrir terminal (Ctrl + L )
+atalho para abrir terminal (Ctrl + " )
 atalho para pasta no Terminal (SD)
 
 rodar teste no terminal (node .\index.js)
