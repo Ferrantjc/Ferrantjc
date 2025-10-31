@@ -27,4 +27,16 @@ juntar texto = concatenar
 
 colocar "1"+"1" para concatenar
 
+let= variavel
+const = fixa
 
+comentar //
+// criando variavel
+// declarando variavel e atribuindo 102
+//const mediaDeNotas // CamelCase
+//const mediaDeNotas // PasquelCase
+//const mediaDeNotas // Snack_Case
+
+atrubuir novo nome = nome= "o nome"
+
+não pode atrubir valor para constante depois de declarar
