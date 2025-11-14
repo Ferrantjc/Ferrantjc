@@ -40,3 +40,58 @@ comentar //
 atrubuir novo nome = nome= "o nome"
 
 não pode atrubir valor para constante depois de declarar
+
+
+
+
+
+
+
+OPERADORES RALACIONAIS 
+
+
+
+OPERADOR        SIMBOLO
+igual a         ==ou==
+Diferente de    <>ou!=ou!==
+Maior que          >
+menor que          <
+Maior ou igual a    >=
+Menos ou igual a     <=
+
+valor logico = verdadeiro ou falso ( sim ou nao ( 0 ou 1 )
+
+
+
+
+
+
+
+
+OPERADORES lÓGICO 
+
+&&(and/e) se todas as condições forem verdade
+|| (or/ou) se ao menos uma condição for verdade
+! (not/nao )
+
+ESTRUTURA DE CONDIÇÃO
+
+so usar ELSE em conjunto com IF
+
+IF e ELSE / Else fecha o codigo 
+
+inicio IF / meio else if / final Else
+
+considera o log verdadeiro
+
+alterar no codigo HTML lang=pt-br
+
+
+
+
+
+
+
+
+
+
